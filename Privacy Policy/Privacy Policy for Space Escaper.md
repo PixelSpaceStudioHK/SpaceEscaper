@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Privacy Policy for Space Escaper - FreePrivacyPolicy.com</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,13 +13,7 @@
 <meta property="og:url" content="https://www.freeprivacypolicy.com/live/33c501a4-1be0-493c-8569-29bdf30559de" />
 <meta property="og:site_name" content="FreePrivacyPolicy.com" />
 <link rel="canonical" href="https://www.freeprivacypolicy.com/live/33c501a4-1be0-493c-8569-29bdf30559de" />
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QSMNQ8CKJG"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-QSMNQ8CKJG');
-    </script>
+
 </head>
 <body>
 <div class="page">
@@ -178,63 +171,5 @@
 </div>
 </div>
 </div>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
-    const tabLinks = Array.from(document.querySelectorAll(".tab-link"));
-    const tabContents = document.querySelectorAll(".tab-content");
-    
-    tabLinks.forEach(function(tabLink) {
-        tabLink.addEventListener("click", toggleTab);
-    });
-    
-    let priorActiveTab = null;
-    
-    function toggleTab(event) {
-        tabLinks.forEach(function(tabLink, index){
-            tabLink.classList.remove("active");
-            tabLink.classList.add("inactive");
-        
-            tabContents[index].classList.remove("visible");
-            tabContents[index].classList.add("hidden");
-        });
-
-        if(priorActiveTab === this) {
-            this.classList.remove("active");
-            this.classList.add("inactive");
-
-            tabContents[tabLinks.indexOf(this)].classList.remove("visible");
-            tabContents[tabLinks.indexOf(this)].classList.add("hidden");
-
-            priorActiveTab = null;
-        } else {
-            this.classList.remove("inactive");
-            this.classList.add("active");
-        
-            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
-            tabContents[tabLinks.indexOf(this)].classList.add("visible");
-        
-            priorActiveTab = this;
-        }
-        
-        if (priorActiveTab === null) {
-            this.classList.remove("inactive");
-            this.classList.add("active");
-        
-            tabContents[tabLinks.indexOf(this)].classList.remove("hidden");
-            tabContents[tabLinks.indexOf(this)].classList.add("visible");
-        }
-      
-        event.preventDefault();
-    }
-</script>
-<script type="text/javascript">
-    "use strict";
-    window.LCG_TRACKING_APPLICATION = "freeprivacypolicy-livelink";
-    window.LCG_TRACKING_ENVIRONMENT = "production";
-    window.LCG_TRACKING_EPOCH = "2020-e01";
-</script>
-<script src="/track/v1/r/js-code" type="text/javascript" async="true"></script>
-<script src="/track/v1/r/js-data" type="text/javascript" async="true"></script>
-<img src="/track/v1/px" style="position:fixed;right:0px;bottom:0px;display:none;" />
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"77abe32c4a2a6e55","token":"dd281d4ac6a447be928fcee1746ec801","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
 </body>
 </html>
