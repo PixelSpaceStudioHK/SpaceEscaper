@@ -18,9 +18,6 @@
 <body>
 <div class="page">
 <div class="header">
-<div class="container">
-<p class="title">Privacy Policy for Space Escaper</p>
-</div>
 </div>
 <div class="translations-content-container">
 <div class="container">
