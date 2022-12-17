@@ -159,17 +159,13 @@
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bfcfd6c7dad3cccfdedcdacccbcadbd6d0d7d4ffd8d2ded6d391dcd0d2">[email&#160;protected]</a></li>
+<li>By email: pixelspacestudiohk@gmail.com</li>
 </ul>
 </div>
 </div>
 </div>
 
-<div class="footer">
-<div class="container">
-<p>Generated using <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank">Free Privacy Policy Generator</a></p>
-</div>
-</div>
+
 </div>
 </body>
 </html>
